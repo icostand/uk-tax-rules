@@ -1,0 +1,26 @@
+{
+  "tax_year": "2025-26",
+  "class_1_employee": {
+    "lower_earnings_limit": 12570,
+    "primary_threshold": 12570,
+    "upper_earnings_limit": 50270,
+    "main_rate": 0.08,
+    "upper_rate": 0.02
+  },
+  "class_1_employer": {
+    "secondary_threshold": 9100,
+    "rate": 0.138
+  },
+  "class_2": {
+    "small_profits_threshold": 6845,
+    "weekly_rate": 3.5
+  },
+  "class_4": {
+    "lower_profits_limit": 12570,
+    "upper_profits_limit": 50270,
+    "main_rate": 0.06,
+    "upper_rate": 0.02
+  },
+  "source": "https://www.gov.uk/national-insurance/how-much-you-pay",
+  "last_reviewed": "2025-07-22"
+}
