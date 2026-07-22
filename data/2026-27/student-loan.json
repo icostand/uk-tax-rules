@@ -1,0 +1,27 @@
+{
+  "tax_year": "2026-27",
+  "source": "https://www.gov.uk/repaying-your-student-loan/what-you-pay",
+  "last_reviewed": "2026-07-22",
+  "plans": {
+    "plan1": {
+      "threshold": 26900,
+      "rate": 0.09
+    },
+    "plan2": {
+      "threshold": 29385,
+      "rate": 0.09
+    },
+    "plan4": {
+      "threshold": 33795,
+      "rate": 0.09
+    },
+    "plan5": {
+      "threshold": 25000,
+      "rate": 0.09
+    },
+    "postgraduate": {
+      "threshold": 21000,
+      "rate": 0.06
+    }
+  }
+}
