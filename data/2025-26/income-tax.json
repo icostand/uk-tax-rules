@@ -1,0 +1,65 @@
+{
+  "tax_year": "2025-26",
+  "jurisdiction": "England, Wales, Northern Ireland and Scotland",
+  "personal_allowance": 12570,
+  "bands": [
+    {
+      "name": "Basic rate",
+      "from": 12571,
+      "to": 50270,
+      "rate": 0.2
+    },
+    {
+      "name": "Higher rate",
+      "from": 50271,
+      "to": 125140,
+      "rate": 0.4
+    },
+    {
+      "name": "Additional rate",
+      "from": 125141,
+      "to": null,
+      "rate": 0.45
+    }
+  ],
+  "scotland": [
+    {
+      "name": "Starter rate",
+      "from": 12571,
+      "to": 14921,
+      "rate": 0.19
+    },
+    {
+      "name": "Basic rate",
+      "from": 14922,
+      "to": 31092,
+      "rate": 0.2
+    },
+    {
+      "name": "Intermediate rate",
+      "from": 31093,
+      "to": 62430,
+      "rate": 0.21
+    },
+    {
+      "name": "Higher rate",
+      "from": 62431,
+      "to": 125140,
+      "rate": 0.42
+    },
+    {
+      "name": "Advanced rate",
+      "from": 125141,
+      "to": 150000,
+      "rate": 0.45
+    },
+    {
+      "name": "Top rate",
+      "from": 150001,
+      "to": null,
+      "rate": 0.48
+    }
+  ],
+  "source": "https://www.gov.uk/income-tax-rates",
+  "last_reviewed": "2025-07-22"
+}
