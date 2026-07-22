@@ -1,0 +1,11 @@
+{
+  "tax_year": "2025-26",
+  "allowance": 500,
+  "rates": {
+    "basic": 0.0875,
+    "higher": 0.3375,
+    "additional": 0.3935
+  },
+  "source": "https://www.gov.uk/tax-on-dividends",
+  "last_reviewed": "2025-07-22"
+}
